@@ -2,7 +2,7 @@
 ## ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
 ## SI5302701 Graduate Institute of Intelligent Manufacturing Tech., NTUST.  
 :bulb: In this class, the students can learn the basics of manipulating industrial robot arms (EPSON robot) operation. The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot. 
-## :beginner: Exercises and resources
+## :beginner: EPSON Robot (Exercises and resources)
 - Basic and Challenging tasks: (by team)
     - [ ] Basic tasks
     - [ ] Challenging tasks
@@ -201,3 +201,8 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.
 2. Task 1: pick and place (feeder-->fixture-->tray): https://youtu.be/XQcib0vzzIk
 3. Task 2: Stacking https://youtu.be/oQTrqzth1_I
 4. I/O box assembly: https://youtu.be/_gBvWF14sqk
+## :beginner: ABB Robot (Exercises and resources)
+
+### ABB Robot IRB-1090
+
+### Machine vision Congnex-
