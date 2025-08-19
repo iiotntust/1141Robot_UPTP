@@ -227,25 +227,25 @@ Software installation - ABB robotstudio
 Software RobotStudio Suite:
 https://new.abb.com/products/robotics/robotstudio
 Hardware - ABB IRB 1090 Robot
-🔹 Schematic and I/O Wiring diagram
+- Schematic and I/O Wiring diagram
 Schematic: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
 I/O Wiring diagram: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/ABB_Wire.png
-🔹 ABB Robot Manuals
-Robot Manual: https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
-Controller OmniCore E10 Controller:https://new.abb.com/products/robotics/controllers/omnicore/omnicore-e10
+- ABB Robot Manuals
+- Robot Manual: https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
+- Controller OmniCore E10 Controller:https://new.abb.com/products/robotics/controllers/omnicore/omnicore-e10
 🐾 Resources (CAD files, manuals):
 CAD software, files, and manuals.
 
 🔹 CAD software
-Mechanical Engineering Department - CAD software https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
-Free auto cad, register with student ID. https://www.autodesk.com/products/fusion-360/education
-Education account apply https://www.autodesk.com/education/support
+- Mechanical Engineering Department - CAD software https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
+- Free auto cad, register with student ID. https://www.autodesk.com/products/fusion-360/education
+- Education account apply https://www.autodesk.com/education/support
 🔹 CAD files (tool, fixture, tray…)
-Tooling End Effector: https://a360.co/44fONAx
-Token: https://a360.co/3pmQSv7
-Block: https://a360.co/3NmZcTH
-Fixture, Tray: https://a360.co/3JyIhw6
-Alignment/Infeed fixture: https://a360.co/3NNyUKD
+- Tooling End Effector: https://a360.co/44fONAx
+- Token: https://a360.co/3pmQSv7
+- Block: https://a360.co/3NmZcTH
+- Fixture, Tray: https://a360.co/3JyIhw6
+- Alignment/Infeed fixture: https://a360.co/3NNyUKD
 Reference Point Setup Tool: https://a360.co/3PyeMhJ
 🔹 CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 Chelic components download: https://chelic.partcommunity.com/
