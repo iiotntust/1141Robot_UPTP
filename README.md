@@ -180,12 +180,7 @@ https://www.autodesk.com/products/fusion-360/education
 https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files (tool, fixture, tray…)
-1. Tooling End Effector: https://a360.co/44fONAx 
-2. Token: https://a360.co/3pmQSv7
-3. Block: https://a360.co/3NmZcTH
-4. Fixture, Tray: https://a360.co/3JyIhw6
-5. Alignment/Infeed fixture: https://a360.co/3NNyUKD
-6. Reference Point Setup Tool: https://a360.co/3PyeMhJ
+- Check the release, it can be download.
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
