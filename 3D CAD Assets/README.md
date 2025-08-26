@@ -1,4 +1,4 @@
-# 1121 Introduction to Robotics 3D CAD Assets
+# 1141 Introduction to Robotics 3D CAD Assets
 ## 3D files for simulation
 The relevant 3D files used in exercises #1 and #2 have been provided for you within the *"CAD Assets"* subdirectory.
 
