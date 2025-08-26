@@ -241,11 +241,6 @@ CAD software, files, and manuals.
 - Free auto cad, register with student ID. https://www.autodesk.com/products/fusion-360/education
 - Education account apply https://www.autodesk.com/education/support
 🔹 CAD files (tool, fixture, tray…)
-- Tooling End Effector: https://a360.co/44fONAx
-- Token: https://a360.co/3pmQSv7
-- Block: https://a360.co/3NmZcTH
-- Fixture, Tray: https://a360.co/3JyIhw6
-- Alignment/Infeed fixture: https://a360.co/3NNyUKD
-Reference Point Setup Tool: https://a360.co/3PyeMhJ
+- Check the release, it can be download.
 🔹 CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 Chelic components download: https://chelic.partcommunity.com/
