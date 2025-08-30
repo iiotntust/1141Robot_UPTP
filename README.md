@@ -12,10 +12,7 @@
     - [ ] I/O box
     - [ ] HMI
     - [ ] Instruction and reference
-- Machine visions 
-    - [ ] Hardware Camera/Lens/Lights
-    - [ ] Software Python and OpenCV 
-    - [ ] Pattern Match        
+      
 - Level of capability: 
     - [ ] Level 1,2,3,4,5.
 - Resources (CAD files, manuals): 
@@ -27,11 +24,11 @@
     - [ ] 2 shifts per week. (3 hours/shift)
 
 ## :triangular_flag_on_post: Basic and Challenging tasks
-The suggested basic tasks can help students familiarize the setting of the World, Local, and Tool coordinates with the robots and utilize essential functions and commands.
-The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without detailed instructions. Students should use their creativity to leverage the functions and commands they learned in the lectures and robot manuals.
+The suggested basic tasks can help students familiarize themselves with the settings of the World, Local, and Tool coordinates, as well as utilize essential functions and commands.
+The challenging tasks provide students with ideas and drill exercises to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without detailed instructions. Students should use their creativity to leverage the functions and commands they learned in the lectures and robot manuals.
 
 ### Basic tasks
-- Task 1. Exploring the robot envelop and the work cell:
+- Task 1. Exploring the robot envelope and the work cell:
 
 Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed the calibration)
 1. Define the World (local0), Local, tool(tool0), tool coordinates. (Based on the robots and works cell)
@@ -56,21 +53,21 @@ Exercise: Insert CAD models in a robot envelope.
 1. Two feeders (A, B)
 2. Mixed tokens and blocks
 3. Stack up not neatly (not aligned)
-4. Unfull-fill the feeder (checking quantity)
+4. Unfill the feeder (checking quantity)
 - #### Task 3. Fixture
-1. Two fixtures are primary and secondary (as buffer when there is no space at the tray).  
-2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challeng task 2-3.
+1. Two fixtures are primary and secondary (as a buffer when there is no space in the tray).  
+2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challenge task 2-3.
 3. Develop a way to detect the orientations of the block (20 mm x 24 mm); it might be a gripper or vacuum nozzle. 
 - #### Task 4. Tray
-1. One tray - keep status in robot memory (occupied or vacancy)
+1. One tray - keep status in robot memory (occupied or vacant)
 2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
 - #### Task 5. GUI
 - ##### A. Functionality: 
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
-2. GUI#2 - Move tokens and blocks into the tray from feeder to tray (fixture optional); one button forward and one return.
+2. GUI#2 - Move tokens and blocks into the tray from the feeder to the tray (fixture optional); one button forward and one return.
 - ##### B. Tools: 
 1. I/O box: Start (Green), Reset (Org), Stop (Red); Forward(Blue), Reverse(White)
-2. HMI: create the button on the touch screen
+2. HMI: Create the button on the touch screen
 3. EPSON robot GUI: create the button on the touch screen
   
 - #### Task 6. Others (optional)
@@ -79,7 +76,7 @@ Exercise: Insert CAD models in a robot envelope.
 2. Lose pneumatic (or low-pressure)
 3. Los I/O signal (hardware malfunction)
 4. Emergency Stop 
-- ##### B. Function button or GUI - to complete operation cycle:
+- ##### B. Function button or GUI - to complete the operation cycle:
 1. Auto mode / manual mode
 2. Reset function 
 3. Self-awareness (diagnosis)
@@ -90,14 +87,14 @@ In this sector, students learn how to design the mechanical parts for the grippe
 1. Design "Finger"
 2. 3D print  
 3. Assembly
-4. Github: drawing and files (for 3D printer).
+4. GitHub: drawing and files (for 3D printer).
 - #### Cylinder
 1. Design "Holder"
 2. 3D print 
 3. Assembly
-4. Github: save drawings and files (for 3D printer).
+4. GitHub: save drawings and files (for 3D printer).
 - #### Instruction and reference
-1. Instruction .ppt (follow TA)
+1. Instruction ppt (follow TA)
 2. 3D printer (Phrozen3)
    - Phrozen manual download (Sonic Mini 4K): https://phrozen3d.com/pages/manual
    - Test model file: https://phrozen3d.com/pages/phrozens-xp-finder-and-rp-tester-test-model-download-and-tutorials
@@ -109,21 +106,21 @@ In this sector, students learn how to design the mechanical parts for the grippe
    - Tutorial video: https://www.youtube.com/watch?v=uk_OII4pgcA
    - Taiwan Agent: http://www.twinsoft.com.tw/ARM-10/ARM10.htm  
 ## :eight_pointed_black_star: Electrical design and wiring: (group A and B collaboration)
-In this sector, students learn how to illustrate the wiring diagrams for the I/O box and HMI and conduct the wiring and assembly to the I/O Bus of the EPSON robot.
+In this sector, students learn how to create wiring diagrams for the I/O box and HMI, and conduct wiring and assembly to the I/O Bus of the EPSON robot.
 - #### I/O box:
 1. Illustrate wiring diagram (.pdf)
    - Cable to button(6): Red, Orange, Green (latch type); Blue, White (unlatch type); buzzer. 
    - I/O box to Robot I/O terminal
 2. Wiring and Assembling
-3. Github: save drawing and files (.pdf)
+3. GitHub: save drawing and files (.pdf)
 4. Reference:
    - Pushbutton Switch:[[reference link](https://www.amazon.com/Latching-Button-Switch-Waterproof-K16-371/dp/B0975WXFTB/ref=sr_1_17_sspa?crid=DO62EE9HW0YB&keywords=16mm%2BPush%2BButton%2BSwitch&qid=1694827804&sprefix=16mm%2Bpush%2Bbutton%2Bswitch%2Caps%2C303&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)]
    - Wiring (suggested: No.1, Button On/ LED on)   
      <img width="2475" height="2475" alt="wiring" src="https://github.com/user-attachments/assets/5e3807fe-8c8b-41d6-a067-11a917313420" />
 - #### HMI:
-1. Illustrate wiring diagram
+1. Illustrate a wiring diagram
 2. Wiring and Assembling
-3. Github: save drawing and files (.pdf)
+3. GitHub: save drawing and files (.pdf)
 4. Reference
    - HMI (Weintek MT8072ip): software EasyBuilder Pro V6.09.02.651 (2025/07/01) https://www.weintek.com/globalw/Download/Download.aspx
    - Early version software: EasyBuilder8000 V4.66.02.016 (2016/12/21); for the sample code in class.
@@ -132,7 +129,7 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
    - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
 ### :small_blue_diamond: Vision software
 1. Python download: https://www.python.org/downloads/    
-2. PyCharm IDE download : https://www.jetbrains.com/pycharm/download/?section=windows  
+2. PyCharm IDE download: https://www.jetbrains.com/pycharm/download/?section=windows  
 3. Python OpenCV: https://pypi.org/project/opencv-python/
 4. Colab Demo : https://colab.research.google.com/drive/1-fFviwLNJBtvoa2tp_eKlBeV0h546U0o?usp=sharing
 
@@ -151,7 +148,7 @@ Each team should complete the following tasks in 30 minutes.
    - Total Time (the team with the shortest time wins)
 3. Integration task:
    Criterion:
-   - Adding the challenge tasks in the tasks.
+   - Adding the challenge tasks to the tasks.
    - with self-design fixtures
    - with I/O box, HMI
 
@@ -161,26 +158,26 @@ To measure the capability of implementation of a robotic project.
 
 |     **Level**    |   **Capbility**  |**Example assignments** |
 |:------------------:|:------------------------------:|:---------:|
-| 01   | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
-| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
-| 03   |Can plan process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
-| 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore system by interference.|
+| 01 | Can set coordinates (world, local, tools) and align the tool to the work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
+| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.) or machine vision to get the location or OCR information|
+| 03   |Can plan a process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
+| 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore the system by interference.|
 | 05   |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
 
-The goal is to make the robot automatically run without human intervention. Also, the program should be flexible to modify for various processing changes.  
+The goal is to enable the robot to run autonomously without human intervention. Additionally, the program should be flexible enough to accommodate various processing changes.  
 
 ## :feet: Resources (CAD files, manuals):
 CAD software, files, and manuals.
 ### :small_blue_diamond: CAD software
 1. Mechanical Engineering Department - CAD software 
 https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
-2. Free auto cad, register with student ID. 
+2. Free AutoCAD, register with your student ID. 
 https://www.autodesk.com/products/fusion-360/education
 3. Education account apply
 https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files (tool, fixture, tray…)
-- Check the release, it can be download.
+- Check the release; it can be downloaded.
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
@@ -203,9 +200,9 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.
 Basic operation and machine vision
 Exercises:
 
-- Day 1 Basic ABB robot Operation
+- Day 1 Basic ABB Robot Operation
 Briefing (Day 1 handout)
-Install ABB Robot studio
+Install ABB Robot Studio
 Demo pick-and-place
 Simulator: https://youtu.be/RzuO8K04AFg; IRB 1090 - https://youtu.be/-G4bnbylSYE
 Teaching Pendant practice (each team 30 mins)
@@ -216,7 +213,7 @@ Task 2: Token Localization
 - Day 3
 optimized the image processing to promote the accuracy
 Complete the pick-n-place tasks with machine vision
-Software installation - ABB robotstudio
+Software installation - ABB RobotStudio
 Software RobotStudio Suite:
 https://new.abb.com/products/robotics/robotstudio
 Hardware - ABB IRB 1090 Robot
@@ -231,9 +228,9 @@ CAD software, files, and manuals.
 
 🔹 CAD software
 - Mechanical Engineering Department - CAD software https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
-- Free auto cad, register with student ID. https://www.autodesk.com/products/fusion-360/education
+- Free AutoCAD, register with student ID. https://www.autodesk.com/products/fusion-360/education
 - Education account apply https://www.autodesk.com/education/support
 🔹 CAD files (tool, fixture, tray…)
-- Check the release, it can be download.
+- Check the release; it can be downloaded.
 🔹 CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 Chelic components download: https://chelic.partcommunity.com/
