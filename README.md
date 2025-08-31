@@ -181,7 +181,7 @@ https://www.autodesk.com/products/fusion-360/education
 https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files (tool, fixture, tray…)
-- Check the release; it can be downloaded.
+- Check the release files at https://github.com/iiotntust/1121robot/releases 
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
