@@ -46,7 +46,8 @@ There are two ways to build the simulation environment:
 **Exercise:** Compare the difference between a physical manipulator and a simulator model
 
 ### Challenging tasks
-Students can add challenging tasks to increase the sophistication of the system to achieve higher-level requirements. (Refer to the Level of achievement table below.)
+- Students can add challenging tasks to increase the sophistication of the system to achieve higher-level requirements. (Refer to the Level of achievement table below.)
+- There are 
 - #### Task 1. Tools
 1. Gripper - high accuracy (can skip the alignment process in specific circumstances); can be used as a tool to align objects at fixtures (alignment)
 2. Vacuum nozzle - with the pressure sensor, can be used to check objects and as a tool to align objects. 
@@ -64,6 +65,7 @@ Students can add challenging tasks to increase the sophistication of the system 
 1. One tray - keep status in robot memory (occupied or vacant)
 2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
 - #### Task 5. GUI
+  (EPSON robot functionality, practice only, cannot download to the controller due to being locked by an unknown password.)
 - ##### A. Functionality: 
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
 2. GUI#2 - Move tokens and blocks into the tray from the feeder to the tray (fixture optional); one button forward and one return.
