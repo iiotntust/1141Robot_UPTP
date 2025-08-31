@@ -35,7 +35,7 @@ The challenging tasks provide students with ideas and drill exercises to improve
 Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed the calibration)
 1. Define the World (local0), Local, tool(tool0), tool coordinates. (Based on the robots and work cell)
 2. Measure the tool dimension and the center offset between tool0(J6, robot) and tools.(Tool1: gripper, Tool2: vacuum nozzle)
-3. Decide the space between "objects"(tokens and blocks) at pick-up and approach gap when place
+3. Decide the space between "objects"(tokens and blocks) at pick-up and approach gap when place.  
 **Exercise:** Transfer tokens from the feeder to the fixture first, then move them to the tray. 
 - Task 2. Building the simulation environment:
 There are two ways to build the simulation environment:
