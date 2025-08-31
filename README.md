@@ -48,56 +48,56 @@ There are two ways to build the simulation environment:
 ### Challenging tasks
 - Students can add challenging tasks to increase the sophistication of the system to achieve higher-level requirements. (Refer to the Level of achievement table below.)
 - There are six suggested tasks below:
-- #### Task 1. Tools
+#### Task 1. Tools
 1. Gripper - high accuracy (can skip the alignment process in specific circumstances); can be used as a tool to align objects at fixtures (alignment)
 2. Vacuum nozzle - with the pressure sensor, can be used to check objects and as a tool to align objects. 
 3. Explore the status by vacuum pressure gauge (sensor): check feeder, fixture, and tray status. (quantity, occupied or vacancy)
-- #### Task 2. Feeder
+#### Task 2. Feeder
 1. Two feeders (A, B)
 2. Mixed tokens and blocks
 3. Stack up not neatly (not aligned)
 4. Unfill the feeder (checking quantity)
-- #### Task 3. Fixture
+#### Task 3. Fixture
 1. Two fixtures are primary and secondary (as a buffer when there is no space in the tray).  
 2. Rotate the block in (20 mm x 24 mm) or (24 mm x 20 mm); from the unaligned block pile in Challenge task 2-3.
 3. Develop a way to detect the orientations of the block (20 mm x 24 mm); it might be a gripper or vacuum nozzle. 
-- #### Task 4. Tray
+#### Task 4. Tray
 1. One tray - keep status in robot memory (occupied or vacant)
 2. Two trays, one at the essential location and one at another with an angle(30 degrees). 
-- #### Task 5. GUI
+#### Task 5. GUI
   
-- ##### A. Functionality: 
+##### A. Functionality: 
 1. GUI#1 - stack up tokens and blocks alternately at fixture (from feeder to fixture); one button to stack and the other to unstack.
 2. GUI#2 - Move tokens and blocks into the tray from the feeder to the tray (fixture optional); one button forward and one return.
-- ##### B. Tools: 
+##### B. Tools: 
 1. I/O box: Start (Green), Reset (Org), Stop (Red); Forward(Blue), Reverse(White)
 2. HMI: Create the button on the touch screen
 3. EPSON robot GUI: create the button on the touch screen (EPSON robot GUI for practice only, cannot download to the controller due to being locked by an unknown password.)
 
-- #### Task 6. Others (optional)
-- ##### A. Response to unexpected issues: 
+#### Task 6. Others (optional)
+##### A. Response to unexpected issues: 
 1. Lose power
 2. Lose pneumatic (or low-pressure)
 3. Los I/O signal (hardware malfunction)
 4. Emergency Stop 
-- ##### B. Function button or GUI - to complete the operation cycle:
+##### B. Function button or GUI - to complete the operation cycle:
 1. Auto mode / manual mode
 2. Reset function 
 3. Self-awareness (diagnosis)
 
 ## :joystick: Mechanical design and assembling: (group A and B collaboration)
 In this sector, students learn how to design the mechanical parts for the gripper on the robot and the cylinder on the peripherals and print and assemble them on the robot system. 
-- #### Gripper
+#### Gripper
 1. Design "Finger"
 2. 3D print  
 3. Assembly
 4. GitHub: drawing and files (for 3D printer).
-- #### Cylinder
+#### Cylinder
 1. Design "Holder"
 2. 3D print 
 3. Assembly
 4. GitHub: save drawings and files (for 3D printer).
-- #### Instruction and reference
+#### Instruction and reference
 1. Instruction ppt (follow TA)
 2. 3D printer (Phrozen3)
    - Phrozen manual download (Sonic Mini 4K): https://phrozen3d.com/pages/manual
@@ -105,7 +105,7 @@ In this sector, students learn how to design the mechanical parts for the grippe
    - Tutorial video: https://phrozen3d.com/pages/video-tutorial
    - Software download: https://phrozen3d.com/pages/software
    - Chitubox download: https://www.chitubox.com/en/download/chitubox-free
-4. 3D printer (Roland)
+3. 3D printer (Roland)
    - Roland Technical Support: https://www.rolanddga.com/support/products/3d-printing-devices
    - Tutorial video: https://www.youtube.com/watch?v=uk_OII4pgcA
    - Taiwan Agent: http://www.twinsoft.com.tw/ARM-10/ARM10.htm  
