@@ -194,43 +194,34 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.
 ## :beginner: ABB Robot (Exercises and resources)
 
 ### ABB Robot IRB-1090
-
-### Machine vision Congnex-
-
-Basic operation and machine vision
-Exercises:
-
-- Day 1 Basic ABB Robot Operation
-Briefing (Day 1 handout)
-Install ABB Robot Studio
-Demo pick-and-place
-Simulator: https://youtu.be/RzuO8K04AFg; IRB 1090 - https://youtu.be/-G4bnbylSYE
-Teaching Pendant practice (each team 30 mins)
-Work object coordinate setting practice
-- Day 2 Machine Vision
+ABB robotic arms equipped with machine vision are primarily used for hand-eye coordination exercises. (Start in 2024)
+- The ABB robot facilitied machine vision (Congnex camera). 
+- Camera Information: Cognex INSIGHT Model:821-10020-1R. (www.cognex.com/support/insight)
+- Demo pick-and-place:
+1. Simulator: https://youtu.be/RzuO8K04AFg
+2. Manipulator: IRB 1090 - https://youtu.be/-G4bnbylSYE
+#### Day 1 Basic ABB Robot Operation
+- Briefing (Day 1 handout)
+- Install ABB Robot Studio
+- Teaching Pendant practice (each team 30 mins)
+- Work object coordinate setting practice
+#### Day 2 Machine Vision
 Task 1: Tray localization:
 Task 2: Token Localization
-- Day 3
-optimized the image processing to promote the accuracy
-Complete the pick-n-place tasks with machine vision
-Software installation - ABB RobotStudio
-Software RobotStudio Suite:
-https://new.abb.com/products/robotics/robotstudio
-Hardware - ABB IRB 1090 Robot
-- Schematic and I/O Wiring diagram
-Schematic: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
-I/O Wiring diagram: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/ABB_Wire.png
-- ABB Robot Manuals
+#### Day 3 optimized the image processing to promote the accuracy
+- Complete the pick-n-place tasks with machine vision
+#### Reference
+1. Software installation - ABB RobotStudio
+- Software RobotStudio Suite: https://new.abb.com/products/robotics/robotstudio
+2. Hardware - ABB IRB 1090 Robot
+- Schematic and I/O Wiring diagram Schematic: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
+- I/O Wiring diagram: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/ABB_Wire.png
+3. ABB Robot Manuals
 - Robot Manual: https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
 - Controller OmniCore E10 Controller:https://new.abb.com/products/robotics/controllers/omnicore/omnicore-e10
-🐾 Resources (CAD files, manuals):
-CAD software, files, and manuals.
-
-🔹 CAD software
-- Mechanical Engineering Department - CAD software https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
-- Free AutoCAD, register with student ID. https://www.autodesk.com/products/fusion-360/education
-- Education account apply https://www.autodesk.com/education/support
-🔹 CAD files (tool, fixture, tray…)
-- Check the release; it can be downloaded.
-🔹 CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
-Chelic components download: https://chelic.partcommunity.com/
+4. Resources download information (CAD files, manuals):
+- CAD software: Mechanical Engineering Department - CAD software https://www.me.ntust.edu.tw/p/405-1005-35690,c2568.php?Lang=zh-tw
+- CAD software: Free AutoCAD, register with student ID. https://www.autodesk.com/products/fusion-360/education
+- CAD software: Education account apply https://www.autodesk.com/education/support
+- CAD files (tool, fixture, tray…): Check the release folder to downloaded.
+- CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle) Chelic components download: https://chelic.partcommunity.com/
