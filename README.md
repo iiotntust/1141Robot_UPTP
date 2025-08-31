@@ -1,6 +1,6 @@
 # 1141 Introduction to Robotics Tutorial 
 ## ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
-- This course covers the basic manipulator operation and programming of EPSON and ABB robotic arms, as well as machine vision, human-machine interface(HMI), and peripheral I/O integration. Students should work in a team to have a better comprehension of the robot system. In an intensive course, some content may be skipped or the requirements may be reduced.  (Course hour arrangement suggestion: Intensive course 32 hours, standard course time 64 hours.)
+- This course covers the basic manipulator operation and programming of EPSON and ABB robotic arms, as well as machine vision, human-machine interface(HMI), and peripheral I/O integration. Students should work in a team to have a better comprehension of the robot system. **In an intensive course**, **some content may be skipped or the requirements may be reduced**.  (Course hour arrangement suggestion: Intensive course 32 hours, standard course time 64 hours.)
 - In this robotics tutorial (intensive), the first part with the EPSON robot, students learn the basic pick-and-place operation using the robot arm, becoming familiar with the manipulator's operation and experiencing the precision and accuracy. The second part involves students practicing hand-eye coordination with a camera-facilitated ABB robot.
 
 ## :beginner: EPSON Robot (Exercises and resources)
