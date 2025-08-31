@@ -1,6 +1,6 @@
 # 1141 Introduction to Robotics Tutorial 
 ## ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
-This hand-on course consist of two portation: 1.EPSON robot 2. ABB robot (with machine vision). First, students learn the basic pick and place with the robot arm getting familiar with the manipulator operation experiencing precision and accuracy. Second, students practice the hand-eye colloaboration with ABB robot.       
+This robotics hands-on course consists of two parts: 1.EPSON robot 2. ABB robot (with machine vision). First, students learn the basic pick-and-place operation with the robot arm, becoming familiar with the manipulator's operation and experiencing precision and accuracy. Second, students practice the hand-eye coordination with the ABB robot.       
 ## :beginner: EPSON Robot (Exercises and resources)
 - Basic and Challenging tasks: (by team)
     - [ ] Basic tasks
