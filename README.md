@@ -36,11 +36,13 @@ Install tools and components (feeder, fixture, tray) and explore their coordinat
 1. Define the World (local0), Local, tool(tool0), tool coordinates. (Based on the robots and work cell)
 2. Measure the tool dimension and the center offset between tool0(J6, robot) and tools.(Tool1: gripper, Tool2: vacuum nozzle)
 3. Decide the space between "objects"(tokens and blocks) at pick-up and approach gap when place.  
+
 **Exercise:** Transfer tokens from the feeder to the fixture first, then move them to the tray. 
 - Task 2. Building the simulation environment:
 There are two ways to build the simulation environment:
 1. Start by measuring: measuring the layout of the robot envelope at the work cell, including platform, feeder, fixture, tray, and tools.
 2. Start by modeling: create a model of the robot layout arrangement with the CAD files in the simulator (RC 5.0 or RC 7.0).  
+
 **Exercise:** Compare the difference between a physical manipulator and a simulator model
 
 ### Challenging tasks
