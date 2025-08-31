@@ -32,22 +32,18 @@ The challenging tasks provide students with ideas and drill exercises to improve
 
 ### Basic tasks
 - Task 1. Exploring the robot envelope and the work cell:
-
 Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed the calibration)
-1. Define the World (local0), Local, tool(tool0), tool coordinates. (Based on the robots and works cell)
+1. Define the World (local0), Local, tool(tool0), tool coordinates. (Based on the robots and work cell)
 2. Measure the tool dimension and the center offset between tool0(J6, robot) and tools.(Tool1: gripper, Tool2: vacuum nozzle)
 3. Decide the space between "objects"(tokens and blocks) at pick-up and approach gap when place
-
-Exercise: Transfer tokens from the feeder to the fixture first, then move them to the tray. 
+**Exercise:** Transfer tokens from the feeder to the fixture first, then move them to the tray. 
 - Task 2. Building the simulation environment:
-
 There are two ways to build the simulation environment:
-1. Use the measured dimension of the robot envelope and the work cell in Basic: Task 1.
-2. Start a new layout arrangement with the CAD files
-Exercise: Insert CAD models in a robot envelope. 
+1. Start by measuring: measuring the layout of the robot envelope at the work cell, including platform, feeder, fixture, tray, and tools.
+2. Start by modeling: create a model of the robot layout arrangement with the CAD files in the simulator (RC 5.0 or RC 7.0).  
+**Exercise:** Compare the difference between a physical manipulator and a simulator model
 
 ### Challenging tasks
-
 - #### Task 1. Tools
 1. Gripper - high accuracy (can skip the alignment process in specific circumstances); can be used as a tool to align objects at fixtures (alignment)
 2. Vacuum nozzle - with the pressure sensor, can be used to check objects and as a tool to align objects. 
