@@ -46,6 +46,7 @@ There are two ways to build the simulation environment:
 **Exercise:** Compare the difference between a physical manipulator and a simulator model
 
 ### Challenging tasks
+Students can add challenging tasks to increase the sophistication of the system to achieve higher-level requirements. (Refer to the Level of achievement table below.)
 - #### Task 1. Tools
 1. Gripper - high accuracy (can skip the alignment process in specific circumstances); can be used as a tool to align objects at fixtures (alignment)
 2. Vacuum nozzle - with the pressure sensor, can be used to check objects and as a tool to align objects. 
@@ -128,7 +129,7 @@ In this sector, students learn how to create wiring diagrams for the I/O box and
    - WEINTEK forum (EPSON): https://forum.weintekusa.com/t/epson/669
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
    - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
-### :small_blue_diamond: Vision software
+### :small_blue_diamond: Vision software (Optional, for self-studying only)
 1. Python download: https://www.python.org/downloads/    
 2. PyCharm IDE download: https://www.jetbrains.com/pycharm/download/?section=windows  
 3. Python OpenCV: https://pypi.org/project/opencv-python/
